@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sharedPref_example</string>
+    <string name="save_button_text">Guardar</string>
+    <string name="delete_button_text">Borrar</string>
+    <string name="saved_double_text">Numero decimal almacenado: %1$.2f</string>
+    <string name="input_double_text">Ingresa un Número decimal</string>
+    <string name="stored_string_text">Texto almacenado: %1$s</string>
+    <string name="input_string_text">Ingresa un texto</string>
+    <string name="saved_int_text">Valor entero almacenado: %1$d</string>
+    <string name="input_int_text">Ingresa un número entero</string>
+</resources>
